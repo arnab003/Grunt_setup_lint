@@ -1,0 +1,4 @@
+Keep all the 'js' files in the folder 'src'
+
+Commands:
+grunt lint, grant watch
